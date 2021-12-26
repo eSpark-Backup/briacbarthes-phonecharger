@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: Briac_Charger.PcbDoc   12/26/2021  10:15:17 AM
+NCDrill File Report For: Briac_Charger.PcbDoc   12/26/2021  7:47:45 PM
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -8,7 +8,7 @@ ASCII SlotHoles File : Briac_Charger-SlotHoles.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      12mil (0.3mm)                                             Round             93        PTH        0.00inch (0.00mm)
+T1      12mil (0.3mm)                                             Round             125       PTH        0.00inch (0.00mm)
 T2      22mil (0.55mm)                                            Slot              4         PTH        0.00inch (0.00mm)
 T3      35mil (0.9mm)                                             Round             14        PTH        0.00inch (0.00mm)
 T4      36mil (0.92mm)                                            Round             4         PTH        0.00inch (0.00mm)
@@ -18,6 +18,6 @@ T7      55mil (1.4mm)                                             Round         
 T8      91mil (2.3mm)                                             Round             6         PTH        0.00inch (0.00mm)
 T9      122mil (3.1mm)                                            Round             4         PTH        0.00inch (0.00mm)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              132
+Totals                                                                              164
 
 Total Processing Time (hh:mm:ss) : 00:00:00
