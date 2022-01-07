@@ -4,9 +4,9 @@ C:\Users\eSpark-37\Documents\GitHub\BriacBarthes-PhoneCharger\Design-Files\Proje
 ========================================================================================================================
 File Design Information:
 
-Date:       26/12/21
-Time:       19:49
-Revision:   0e80c74ca711c5dfb54707ee2bc9a1fff8fa697a
+Date:       07/01/22
+Time:       18:21
+Revision:   6c3cc4c1a462411712925535ecac77f7bfcefb84
 Variant:    No variations
 Units used: mm
 
@@ -64,19 +64,19 @@ R6         10K                    TopLayer    Res0603            -0,2540mm    51
 R5         0R                     TopLayer    Res0603            41,7830mm    15,6718mm    180      "RES SMD 0R, 1%, 0.1W, 0603"                                                        41,7830mm 15,6718mm 42,5450mm 15,6718mm 
 R4         0.05R                  TopLayer    Res0603            42,4180mm    21,5138mm    270      "RES 0.05 OHM 1% 1/10W 0603"                                                        42,4180mm 21,5138mm 42,4180mm 22,2758mm 
 R3         100K                   BottomLayer Res0603            46,3654mm    14,6558mm    360      "RES SMD 100K OHM 1% 1/10W 0603"                                                    46,3654mm 14,6558mm 45,6034mm 14,6558mm 
-R2         1K                     BottomLayer Res0603            24,1046mm    -0,7620mm    360      "RES SMD 1K OHM 1% 1/10W 0603"                                                      24,1046mm -0,7620mm 23,3426mm -0,7620mm 
+R2         1K                     BottomLayer Res0603            25,7048mm    -0,7620mm    360      "RES SMD 1K OHM 1% 1/10W 0603"                                                      25,7048mm -0,7620mm 24,9428mm -0,7620mm 
 R1         1K                     BottomLayer Res0603            44,9326mm    11,2014mm    360      "RES SMD 1K OHM 1% 1/10W 0603"                                                      44,9326mm 11,2014mm 44,1706mm 11,2014mm 
 R17        10K                    TopLayer    Res0603            28,5750mm    17,2974mm    360      "RES SMD 10K OHM 5% 1/10W 0603"                                                     28,5750mm 17,2974mm 27,8130mm 17,2974mm 
 Q4         DMN1045UFR4-7          TopLayer    DMN1045UFR4-7      48,8873mm    66,2178mm    270      "Mosfet N-ch 12V 3.2A 3-PIN X2-DFN T/r"                                             48,5748mm 66,4678mm 48,5748mm 66,4678mm 
 Q5         FS8205A                TopLayer    SOT-23-6           14,7020mm    29,7536mm    360      "2 N-Channel 466pF 10V 5.7nC 10V +150? (Tj) SOT23-6 MOSFETs"                        14,7020mm 29,7536mm 13,4020mm 30,7036mm 
 Q1         SI2302-TP              TopLayer    SI2302-TP          44,9580mm    12,2588mm    360      "SI2302 Series 20 3 A N-Ch Enhancement Mode Field Effect Transistor - SOT-23-3"     44,9580mm 13,2588mm 44,0080mm 11,2588mm 
-P2         826629-2               TopLayer    HDR1X2             16,8910mm    -1,2700mm    360      "CONN HEADER VERT 2POS 2.54MM"                                                      15,6210mm -1,2700mm 15,6210mm -1,2700mm 
+P2         826629-2               TopLayer    HDR1X2             17,6530mm    -1,2700mm    360      "CONN HEADER VERT 2POS 2.54MM"                                                      16,3830mm -1,2700mm 16,3830mm -1,2700mm 
 P1         61300611121            TopLayer    HDR1X6             12,1920mm    65,6590mm    360      "CONN HEADER VERT 6POS 2.54MM"                                                      5,8420mm  65,6590mm 5,8420mm  65,6590mm 
 LED8       "2835 SMD LED"         TopLayer    2835_LED           52,3494mm    63,3730mm    90       "SMD LED 2835 Chips 1W 3V SMD"                                                      52,3494mm 63,3730mm 52,3494mm 62,3980mm 
 LED7       "2835 SMD LED"         TopLayer    2835_LED           55,6853mm    63,3730mm    90       "SMD LED 2835 Chips 1W 3V SMD"                                                      55,6853mm 63,3730mm 55,6853mm 62,3980mm 
 LED6       "2835 SMD LED"         TopLayer    2835_LED           59,0211mm    63,3730mm    90       "SMD LED 2835 Chips 1W 3V SMD"                                                      59,0211mm 63,3730mm 59,0211mm 62,3980mm 
 LED5       "2835 SMD LED"         TopLayer    2835_LED           62,3570mm    63,3730mm    90       "SMD LED 2835 Chips 1W 3V SMD"                                                      62,3570mm 63,3730mm 62,3570mm 62,3980mm 
-LED4       TZ-P2-0402YGTIA1-0.45T TopLayer    LED_0402           24,0792mm    -0,7112mm    360      "Yellow-Green 0402 Light Emitting Diodes"                                           24,0792mm -0,7112mm 23,6093mm -0,7112mm 
+LED4       TZ-P2-0402YGTIA1-0.45T TopLayer    LED_0402           25,5524mm    -0,7112mm    360      "Yellow-Green 0402 Light Emitting Diodes"                                           25,5524mm -0,7112mm 25,0825mm -0,7112mm 
 LED3       TZ-P2-0402YGTIA1-0.45T TopLayer    LED_0402           -1,1303mm    59,5630mm    180      "Yellow-Green 0402 Light Emitting Diodes"                                           -1,1303mm 59,5630mm -0,6604mm 59,5630mm 
 LED2       TZ-P2-0402YGTIA1-0.45T TopLayer    LED_0402           -1,1303mm    57,0230mm    180      "Yellow-Green 0402 Light Emitting Diodes"                                           -1,1303mm 57,0230mm -0,6604mm 57,0230mm 
 LED1       TZ-P2-0402YGTIA1-0.45T TopLayer    LED_0402           -1,1303mm    58,2930mm    180      "Yellow-Green 0402 Light Emitting Diodes"                                           -1,1303mm 58,2930mm -0,6604mm 58,2930mm 

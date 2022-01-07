@@ -1,11 +1,13 @@
-Output: Generates pick and place files
-Type  : Pick Place
-From  : Variant [[No Variations]] of Project [Phone_Charger.PrjPcb]
-   Generated File[Pick Place for Briac_Charger.txt]
-   Generated File[Pick Place for Briac_Charger.csv]
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Phone_Charger.PrjPcb]
+   Generated File[Briac_Charger-RoundHoles.TXT]
+   Generated File[Briac_Charger-SlotHoles.TXT]
+   Generated File[Briac_Charger.LDP]
+   Generated File[Briac_Charger.DRR]
 
 
-Files Generated   : 2
+Files Generated   : 4
 Documents Printed : 0
 
-Finished Output Generation At 7:49:43 PM On 12/26/2021
+Finished Output Generation At 6:23:03 PM On 1/7/2022

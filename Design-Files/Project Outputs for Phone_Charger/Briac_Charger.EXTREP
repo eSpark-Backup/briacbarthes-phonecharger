@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: Briac_Charger.GBR   12/26/2021  7:47:26 PM
+Gerber File Extension Report For: Briac_Charger.GBR   1/7/2022  6:22:39 PM
 ------------------------------------------------------------------------------------------
 
 
@@ -7,14 +7,14 @@ Gerber File Extension Report For: Briac_Charger.GBR   12/26/2021  7:47:26 PM
 Layer Extension     Layer Description                      
 ------------------------------------------------------------------------------------------
 .GTL                Top Layer                               
-.GPT                Top Pad Master                          
 .GPB                Bottom Pad Master                       
 .GBL                Bottom Layer                            
+.GPT                Top Pad Master                          
 .GTO                Top Overlay                             
 .GTP                Top Paste                               
 .GTS                Top Solder                              
-.GBS                Bottom Solder                           
 .GBP                Bottom Paste                            
+.GBS                Bottom Solder                           
 .GBO                Bottom Overlay                          
 .GM2                Mechanical 2                            
 .GD1                Drill Drawing                           
