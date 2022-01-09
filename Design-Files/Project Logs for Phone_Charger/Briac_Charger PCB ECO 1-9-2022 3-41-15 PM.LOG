@@ -1,0 +1,5 @@
+Added Component: Designator=L3(1239AS-H-1R0M=P2)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetL3_1 Pin=L3-1
+Added Pin To Net: NetName=V_DCDC Pin=L3-2
+Added Member To Class: ClassName=U_DCDC_Conv_Section Member=Component L3 1uH
