@@ -1,0 +1,56 @@
+Change Component Description : Designator=Q5 Old Description=2 N-Channel 466pF 10V 5.7nC 10V +150? (Tj) SOT23-6 MOSFETs New Description=2 N-Channel 466pF 10V 5.7nC 10V +150? (Tj) SOT23-6 MOSFETs
+Change Component Description : Designator=L3 Old Description=3A 1uH ±20% 59mO 1008 Inductors (SMD) ROHS New Description=3A 1uH ±20% 59mO 1008 Inductors (SMD) ROHS
+Change Component Description : Designator=X1 Old Description=16MHz SMD Crystal Resonator 10pF 80O ±10ppm New Description=16MHz SMD Crystal Resonator 10pF 80O ±10ppm
+Change Component Description : Designator=L1 Old Description=500mA 10uH ±20% 320mO 0805 Inductors New Description=500mA 10uH ±20% 320mO 0805 Inductors
+Change Component Description : Designator=R20 Old Description=RES SMD 0.5% 100mW 33kO 0603 New Description=RES SMD 0.5% 100mW 33kO 0603
+Change component parameters: Designator = "J2" ("J2"); Footprint = "901-141A1011D10100"; UniqueID = "\DXUOFHMG\PQWTZTYP" ("\DXUOFHMG\PQWTZTYP")
+Change component parameters (AddParameter): Name = "Connector Type"; Value = "USB - Type A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current Rating"; Value = "1.5A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Gender"; Value = "Female"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Jing Extension of the Electronic Co."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Type"; Value = "ThroughHole,RightAngle"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Contacts"; Value = "4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Ports"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Standard"; Value = "USB 2.0"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J3" ("J3"); Footprint = "901-141A1011D10100"; UniqueID = "\DXUOFHMG\COCIFBOK" ("\DXUOFHMG\COCIFBOK")
+Change component parameters (AddParameter): Name = "Connector Type"; Value = "USB - Type A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current Rating"; Value = "1.5A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Gender"; Value = "Female"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Jing Extension of the Electronic Co."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Type"; Value = "ThroughHole,RightAngle"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Contacts"; Value = "4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Ports"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Standard"; Value = "USB 2.0"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J4" ("J4"); Footprint = "U241-041N-1BR85-1"; UniqueID = "\DXUOFHMG\SRUXFEAO" ("\DXUOFHMG\SRUXFEAO")
+Change component parameters (AddParameter): Name = "Connector Type"; Value = "USB - Type B"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current Rating"; Value = "2A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Gender"; Value = "Female"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "XKB Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Type"; Value = "ThroughHole,RightAngle"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Contacts"; Value = "4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Ports"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Standard"; Value = "USB 2.0"; VariantName = "[No Variations]"
+Change component parameters: Designator = "X1" ("X1"); Footprint = "Q24FA20H0051200"; UniqueID = "\HZLNUIZH\PHKZYPNM" ("\HZLNUIZH\PHKZYPNM")
+Change component parameters (AddParameter): Name = "Crystal Type"; Value = "SMD Crystal"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Equivalent Series Resistance (ESR)"; Value = "80O"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Frequency"; Value = "16MHz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Frequency Tolerance"; Value = "±10ppm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Load Capacitance"; Value = "10pF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Seiko Epson"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-40?~+85?"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R20" ("R20"); Footprint = "Res0603"; UniqueID = "\WDUCVTUJ\ONTKHXBX" ("\WDUCVTUJ\ONTKHXBX")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "PANASONIC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature Range"; Value = "-55?~+155?"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power(Watts)"; Value = "100mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "±50ppm/?"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±0.5%"; VariantName = "[No Variations]"
+Added Component: Designator=D2(LESD5Z5.0CT1G)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://lcsc.com/product-detail/span-style-background-color-ff0-ESD-span-Protection-Devices_UMW-Youtai-Semiconductor-Co-Ltd-LESD5Z5-0CT1G_C2833276.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "UMW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part No"; Value = "LESD5Z5.0CT1G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOD-523"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Custom"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=D2-1
+Added Pin To Net: NetName=IN Pin=D2-2
+Added Member To Class: ClassName=U_Connector_Section Member=Component D2 LESD5Z5.0CT1G
