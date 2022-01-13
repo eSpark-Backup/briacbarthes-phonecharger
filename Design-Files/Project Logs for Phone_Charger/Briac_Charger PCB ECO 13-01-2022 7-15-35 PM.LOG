@@ -1,0 +1,41 @@
+Added Component: Designator=U4(SLG7NT402V)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com/3231/lmr62014-3231410.pdf?src-supplier=Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com/3231/lmr62014-3231410.pdf?src-supplier=Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.ciiva.com/23854/1777788-23854326.pdf?src-supplier=Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.ciiva.com/23854/1777788-23854326.pdf?src-supplier=Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.ciiva.com/4879/snvs735a-74121-4879731.pdf?src-supplier=Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.ciiva.com/4879/snvs735a-74121-4879731.pdf?src-supplier=Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "https://datasheet.ciiva.com/22669/1716576-22669414.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://datasheet.ciiva.com/22669/1716576-22669414.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "https://datasheet.ciiva.com/6603/lmr62014-6603804.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "https://datasheet.ciiva.com/6603/lmr62014-6603804.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6Description"; Value = "https://datasheet.ciiva.com/6603/lmr62014-6603807.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6URL"; Value = "https://datasheet.ciiva.com/6603/lmr62014-6603807.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7Description"; Value = "https://www.verical.com/server-webapp/html/getDatasheet?partID=705722&src-supplier=Verical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7URL"; Value = "https://www.verical.com/server-webapp/html/getDatasheet?partID=705722&src-supplier=Verical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink8Description"; Value = "http://rohmfs.rohm.com/en/techdata_basic/ic/package/ssop3_1-e.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink8URL"; Value = "http://rohmfs.rohm.com/en/techdata_basic/ic/package/ssop3_1-e.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink9Description"; Value = "http://rohmfs.rohm.com/en/products/databook/datasheet/ic/power/voltage_detector/bd48xxg-e.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink9URL"; Value = "http://rohmfs.rohm.com/en/products/databook/datasheet/ic/power/voltage_detector/bd48xxg-e.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Dialog Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "SLG7NT402V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "70°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Output Current"; Value = "4A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-20°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Outputs"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Configuration"; Value = "High Side"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=0.67, 10=0.591, 25=0.5548, 100=0.4529, 250=0.4206, 500=0.358, 1000=0.2864 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "74575"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1827-1124-1-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VBAT Pin=U4-1
+Added Pin To Net: NetName=VOUT# Pin=U4-2
+Added Pin To Net: NetName=VBAT Pin=U4-3
+Added Pin To Net: NetName=VBAT Pin=U4-4
+Added Pin To Net: NetName=V_DCDC Pin=U4-5
+Added Pin To Net: NetName=V_DCDC Pin=U4-6
+Added Pin To Net: NetName=NetC19_2 Pin=U4-7
+Added Pin To Net: NetName=GND Pin=U4-8
+Added Member To Class: ClassName=U_Battery_Management_Section Member=Component U4 SLG7NT402V
