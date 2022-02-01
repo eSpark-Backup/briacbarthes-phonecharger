@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
-PCB File : E:\Git\BriacBarthes-PhoneCharger\Design-Files\Briac_Charger.PcbDoc
+PCB File : C:\Users\XPENDER\Documents\GitHub\BriacBarthes-PhoneCharger\Design-Files\Briac_Charger.PcbDoc
 Date     : 2/1/2022
-Time     : 5:01:06 PM
+Time     : 8:43:02 PM
 
 Processing Rule : Clearance Constraint (Gap=7mil) (All),(All)
 Rule Violations :0
@@ -45,4 +45,4 @@ Rule Violations :0
 
 Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:06
+Time Elapsed        : 00:00:03
