@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=D12/MISO Pin=P1-1
+Removed Pin From Net: NetName=VCC_5V Pin=P1-2
+Removed Pin From Net: NetName=D13/SCK Pin=P1-3
+Removed Pin From Net: NetName=D11/MOSI Pin=P1-4
+Removed Pin From Net: NetName=RESET Pin=P1-5
+Removed Pin From Net: NetName=GND Pin=P1-6
+Added Component: Designator=P1(HDR2X3)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://lcsc.com/product-detail/Pin-Headers_PINREX-210-72-03GB01_C402781.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "PINREX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part no"; Value = "210-72-03GB01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Custom"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=D12/MISO Pin=P1-1
+Added Pin To Net: NetName=VCC_5V Pin=P1-2
+Added Pin To Net: NetName=D13/SCK Pin=P1-3
+Added Pin To Net: NetName=RESET Pin=P1-4
+Added Pin To Net: NetName=D11/MOSI Pin=P1-5
+Added Pin To Net: NetName=GND Pin=P1-6
+Added Member To Class: ClassName=U_Connector_Section Member=Component J1 DC-005-5A-2.0
+Added Member To Class: ClassName=U_Controller_Section Member=Component LED1 L314GT
+Added Member To Class: ClassName=U_Controller_Section Member=Component LED2 L314GT
+Added Member To Class: ClassName=U_Controller_Section Member=Component LED3 L314GT
+Added Member To Class: ClassName=U_Battery_Charging_Section Member=Component LED4 204-10SURT/S530-A3
