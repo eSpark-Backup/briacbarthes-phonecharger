@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\XPENDER\Documents\GitHub\BriacBarthes-PhoneCharger\Design-Files\Briac_Charger.PcbDoc
 Date     : 2/16/2022
-Time     : 12:07:11 AM
+Time     : 1:02:47 AM
 
 Processing Rule : Clearance Constraint (Gap=7mil) (All),(All)
 Rule Violations :0
@@ -10,8 +10,7 @@ Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
 Rule Violations :0
 
 Processing Rule : Un-Routed Net Constraint ( (All) )
-   Violation between Un-Routed Net Constraint: Net GND Between Pad C6-1(761mil,1768mil) on Top Layer [Unplated] And Pad C32-2(1029.787mil,1634.213mil) on Bottom Layer [Unplated] 
-Rule Violations :1
+Rule Violations :0
 
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
@@ -44,6 +43,6 @@ Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (
 Rule Violations :0
 
 
-Violations Detected : 1
+Violations Detected : 0
 Waived Violations : 0
 Time Elapsed        : 00:00:04
